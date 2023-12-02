@@ -1,2 +1,3 @@
-# git_practice_assignmnet
+# git_practice_assignment
+
 for submit MASAI assignment
